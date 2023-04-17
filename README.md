@@ -1,5 +1,11 @@
 ![SpringBoot-Scan-GUI](https://socialify.git.ci/13exp/SpringBoot-Scan-GUI/image?font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)
 
+## 免责声明
+本工具仅面向合法授权的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
+在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。请勿对非授权目标进行扫描。
+如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
+
+## 📝 简介
 **SpringBoot Scan GUI | Spring Boot漏洞利用工具说明 - 🔰雨苁ℒ🔰 https://www.ddosi.org/springboot-scan-gui/
 
 **开源工具 [SpringBoot-Scan]  https://github.com/AabyssZG/SpringBoot-Scan 的GUI图形化版本，对你有用的话麻烦点个Star哈哈~
@@ -155,3 +161,8 @@ kali监听对应端口：
 ## 项目Star统计
 
 ![star](https://starchart.cc/13exp/SpringBoot-Scan-GUI.svg)
+
+## 免责声明
+本工具仅面向合法授权的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。
+在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。请勿对非授权目标进行扫描。
+如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任。
