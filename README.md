@@ -1,8 +1,10 @@
 ![SpringBoot-Scan-GUI](https://socialify.git.ci/13exp/SpringBoot-Scan-GUI/image?font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)
 
-开源工具 [SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan) 的GUI图形化版本，对你有用的话麻烦点个Star哈哈~
+**SpringBoot Scan GUI | Spring Boot漏洞利用工具说明 - 🔰雨苁ℒ🔰 https://www.ddosi.org/springboot-scan-gui/
 
-![GUI](https://github.com/AabyssZG/SpringBoot-Scan/raw/main/pic/GUI.png)
+**开源工具 [SpringBoot-Scan]  https://github.com/AabyssZG/SpringBoot-Scan 的GUI图形化版本，对你有用的话麻烦点个Star哈哈~
+
+**[SpringBoot-Scan] https://github.com/mwb0350/SpringBoot-Scan
 
 **注意：本工具内置相关漏洞的Exp，杀软报毒属于正常现象！**
 
